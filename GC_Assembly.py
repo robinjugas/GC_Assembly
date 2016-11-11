@@ -35,7 +35,7 @@ for x in range(len(sequences)):
     X=range(np.size(num_seq[x]))        
     plt.plot(X,num_seq[x])
 plt.show()
-
+#pokraovani
     
 
 
